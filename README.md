@@ -1,5 +1,5 @@
 # Aggie Tutor iOS app
-### Matching students and tutors at UC Davis in real time
+## Matching students and tutors at UC Davis in real time
  
 
 ### Student User Flow
