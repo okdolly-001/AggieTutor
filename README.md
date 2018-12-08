@@ -3,6 +3,7 @@ Connecting students and tutors quicker and more effectively at UC Davis.
 
 Student User Flow
 ![ezgif com-resize](https://user-images.githubusercontent.com/18589970/49683640-e1717d00-fa7c-11e8-883a-5920d85928dc.gif)
+
 Find tutors near me
 ![ezgif com-resize 2](https://user-images.githubusercontent.com/18589970/49683715-2cd85b00-fa7e-11e8-997c-f144c99d780f.gif)
 
@@ -34,11 +35,3 @@ Tutor User Flow
 2. Demo prototype with friends. Get feedback on app aesthetics and user friendliness. 
 3. Add Backend support with Firebase and third party Api's.
 4. Demo second prototype with backend suppport and Api's. Get more feedback on funtionality of app and how realistic it is that people would use it. 
-
-## UI
-Please limit to the following colors if possible:
-
-Aggie Blue: 	R: 49 G: 77 B: 127
-White
-Black
-Grey
