@@ -1,5 +1,7 @@
 # AggieTutor
-Connecting students and tutors quicker and more effectively at UC Davis.
+*Are you confused in class? Pull out your phone and locate a verified tutor near you. View her/his qualifications, price and hours. We will match you in real time.*
+
+*Do you want to make quick money with flexible hours? Register an account and name your lesson cost. *
 
 ### Student User Flow
 
@@ -31,7 +33,7 @@ Connecting students and tutors quicker and more effectively at UC Davis.
 * Google Firebase
 
 ## View Controllers & Models:
-![](https://github.com/ECS189E/AggieTutor/blob/master/AggieTutor/AggieTutor/Assets.xcassets/Images/AggieTutor%20VC's.png)
+![](https://raw.githubusercontent.com/ECS189E/AggieTutor/master/AggieTutor/AggieTutor/Assets.xcassets/Images/AggieTutor%20VC's.png)
 
 ## Testing Plan
 1. Create prototype without any backend support, similar to the App Prototype above.
