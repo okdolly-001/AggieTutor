@@ -1,6 +1,4 @@
-# Aggie Tutor iOS app
-## matching students and tutors at UC Davis in real time*
- 
+# Aggie Tutor iOS app 
 
 ### Student User Flow
 *Are you confused in class? Pull out your phone and locate a verified tutor near you. View her qualifications, price and hours.*
