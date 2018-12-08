@@ -5,7 +5,7 @@ Connecting students and tutors quicker and more effectively at UC Davis.
 
 | Zaid Al Rakabi | Jose Solorio Ramirez | Ruolan Zeng | Dolly Ye|
 |--------|--------|--------|--------|
-| ![](https://avatars1.githubusercontent.com/u/11766372?s=100&v=3)|![](https://avatars1.githubusercontent.com/u/17058366?s=100&v=4)       | ![](https://avatars2.githubusercontent.com/u/37227883?s=100&v=4)| ![](https://avatars2.githubusercontent.com/u/18589970?s=460&v=4)
+| ![](https://avatars1.githubusercontent.com/u/11766372?s=100&v=3)|![](https://avatars1.githubusercontent.com/u/17058366?s=100&v=4)       | ![](https://avatars2.githubusercontent.com/u/37227883?s=100&v=4)| ![](https://user-images.githubusercontent.com/18589970/49682896-d6185480-fa70-11e8-87d8-92ee74698631.png)
 | [zaidalrakabi](https://github.com/zaidalrakabi)|[joselsoloriojr](https://github.com/joselsoloriojr)|[SeverusTseng](https://github.com/SeverusTseng)| [okdolly](https://github.com/okdolly)
 
 ## Trello Board:
