@@ -1,6 +1,15 @@
 # AggieTutor
 Connecting students and tutors quicker and more effectively at UC Davis.
 
+Student User Flow
+![ezgif com-resize](https://user-images.githubusercontent.com/18589970/49683640-e1717d00-fa7c-11e8-883a-5920d85928dc.gif)
+Find tutors near me
+![ezgif com-resize 2](https://user-images.githubusercontent.com/18589970/49683715-2cd85b00-fa7e-11e8-997c-f144c99d780f.gif)
+
+Tutor User Flow
+![ezgif com-resize 1](https://user-images.githubusercontent.com/18589970/49683714-2b0e9780-fa7e-11e8-92c0-7de3e87e87df.gif)
+
+
 ## Creators:
 
 | Zaid Al Rakabi | Jose Solorio Ramirez | Ruolan Zeng | Dolly Ye|
