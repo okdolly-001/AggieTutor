@@ -1,6 +1,7 @@
 # Aggie Tutor iOS app
-*Are you confused in class? Pull out your phone and locate a verified tutor near you. View her qualifications, price and hours. We will match you in real time.
-Do you want to make quick money with flexible hours? Register an account,send us your transcript and name your lesson cost. 
+### Matching students and tutors at UC Davis in real time
+*Are you confused in class? Pull out your phone and locate a verified tutor near you. View her qualifications, price and hours. 
+Do you want to make quick money with flexible hours? Register an account,send us your transcript and name your lesson cost.* 
 
 ### Student User Flow
 
